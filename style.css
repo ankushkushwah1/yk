@@ -1,0 +1,27 @@
+*{
+    border:0px solid red;
+}
+#backImg{
+	height:100px;
+	widht:10%;
+	
+}
+h2{
+	color:red;
+}	
+#profile{
+	
+	
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	text-align:center;
+	
+}
+#Text{
+	
+	align-items:center;
+	justify-content:center;
+	text-align:center;
+   
+}
